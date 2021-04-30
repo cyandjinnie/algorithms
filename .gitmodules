@@ -1,0 +1,12 @@
+[submodule "repos/sem1"]
+	path = repos/sem1
+	url = https://gitlab.com/diht824/824-maksimov.git
+[submodule "repos/sem2pt1"]
+	path = repos/sem2pt1
+	url = git@gitlab.com:oop-823-825/maksimov.git
+[submodule "repos/sem2pt2"]
+	path = repos/sem2pt2
+	url = git@gitlab.com:mipt-oop-course-2019-b/maksimov.git
+[submodule "repos/sem3"]
+	path = repos/sem3
+	url = git@gitlab.com:mipt-ads-course-2019/maksimov.git
